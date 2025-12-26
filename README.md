@@ -40,5 +40,17 @@ This project allows users to upload CSV files and explore their data easily usin
 - Simple, beginner-friendly interface with Streamlit.<br><br>
 
 
+## OUTPUT:
 
+<img width="1919" height="892" alt="image" src="https://github.com/user-attachments/assets/569a146b-3729-4262-8cda-66bff54d9641" />
+
+<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/c211f06f-d3bc-4bab-ad78-8802560cf789" />
+
+<img width="1847" height="907" alt="image" src="https://github.com/user-attachments/assets/cd1e9021-c667-4997-95c9-bf3b76746ac4" />
+
+<img width="1919" height="853" alt="image" src="https://github.com/user-attachments/assets/5be82396-1cce-4ecf-a6ef-ae014f0e7877" />
+
+<img width="1919" height="824" alt="image" src="https://github.com/user-attachments/assets/1f8bb4f9-ef9b-44f3-aeb4-1da420b80017" />
+
+<img width="1787" height="1012" alt="image" src="https://github.com/user-attachments/assets/9f54a538-ba5c-4869-94b1-70b3620d78d1" />
 
