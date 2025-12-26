@@ -39,20 +39,6 @@ This project allows users to upload CSV files and explore their data easily usin
 - Download results or charts directly.<br>
 - Simple, beginner-friendly interface with Streamlit.<br><br>
 
-<b>5. Folder Structure (Recommended)</b><br>
-- app.py<br>
-- sql_bot.py<br>
-- viz_bot.py<br>
-- requirements.txt<br>
-- README.md<br>
-- .env (contains environment variables, not uploaded to GitHub)<br><br>
 
-<b>6. Dependencies</b><br>
-- streamlit<br>
-- pandas<br>
-- mysql-connector-python<br>
-- plotly<br>
-- python-dotenv<br>
-- groq<br><br>
 
 
